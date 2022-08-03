@@ -1,0 +1,44 @@
+            RK7.py
+    ____________________
+
+
+
+1.  NO RESONANCE  => w1!=sqrt(a)  condition
+        
+        a.  Dependancy on b damping constant
+
+            no Fext applied during this observation [ c=0 ] and hence no RESONANCE
+        
+            if b*b==0 : 
+                SHM continous infinite OSCILLATIONS
+
+            elif b*b==4*a*m:
+                Critical Damping
+
+            elif b*b<4*a*m:
+                Under Damping 
+
+            elif b*b>4*a*m:
+                Over Damping
+
+
+
+2.  RESONANCE    => w1=sqrt(a)  condition
+
+        a.  Dependency on b damping constant
+       
+            Fext and w1 are not disturbed during this observation
+            with increase in damping b = decrease in magnitude of amplitude  [ but oscillations becomes constant and infinite after some time ]
+
+        b.  Dependancy on Fext
+
+            b and w1 are not disturbedduring this observation
+            with increase in Fext force magnitude amplitude increase
+
+
+
+
+
+
+
+* RESONANCE only stops system from coming to rest ; magnitude of amplitude is dependent on b damping constant and Fext magnitude  
